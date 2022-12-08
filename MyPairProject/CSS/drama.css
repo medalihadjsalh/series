@@ -1,0 +1,35 @@
+body{
+  text-align: center;
+  background-image: linear-gradient(white, black, red);
+}
+
+h1{ 
+  font-family: Bookman, URW Bookman L, serif; 
+  line-height: 1.25; 
+  margin: 0 0 10px; 
+  font-size: 40px; 
+  font-weight: bold;
+  color: #e74c3c; 
+}
+
+h4{
+  font-family: "Times New Roman", Times, serif;
+  font-weight: 300;
+  font-size: 26px;
+  line-height: 1.4em;
+  color: floralwhite;
+}
+
+a{
+  text-decoration: none;
+  color: white;
+}
+
+a:hover{
+  background: #e74c3c;
+  color: white;
+}
+
+p{
+  color: white;
+}
